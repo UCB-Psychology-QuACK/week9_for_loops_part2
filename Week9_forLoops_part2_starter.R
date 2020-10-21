@@ -87,7 +87,17 @@ first_year <- c("Alexis", "Evan", "Regina", "Natalie")
 interviewees <- c("Emma", "Samira", "Nancy", "Nirupika", "Eunice", "Victoria")
 professors<- c("Kevin Weiner", "Silvia Bunge", "Steve Piantidosi", "Serena Chen")
 
-# print out the interview combinations. 
+# Create an interview schedule by printing out all the interview combinations. 
+# eg. 
+  # emma meets with kevin
+  # emma meets with silvia
+  # emma meets with steve
+  # emma meets with serena
+  # samira meets with kevin ... 
+
+
+
+
 
 
 
